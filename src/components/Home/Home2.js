@@ -35,7 +35,7 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">React</b> 
+              with <b className="purple">React</b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -51,16 +51,16 @@ function Home2() {
               Feel free to <span className="purple">connect </span>with me
             </p>
             <ul className="home-about-social-links">
-              {/* <li className="social-icons">
+              <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/antonyrubes"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <AiFillGithub />
                 </a>
-              </li> */}
+              </li>
               <li className="social-icons">
                 <a
                   href="https://twitter.com/antonyrubes"

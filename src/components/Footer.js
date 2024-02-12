@@ -23,9 +23,18 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
+                href="https://github.com/antonyrubes"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <AiFillGithub />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
                 href="https://twitter.com/antonyrubes"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiOutlineTwitter />
@@ -35,7 +44,7 @@ function Footer() {
               <a
                 href="https://www.linkedin.com/in/antony-rubes/"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
@@ -45,7 +54,7 @@ function Footer() {
               <a
                 href="https://www.instagram.com/antony_rubes"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillInstagram />
