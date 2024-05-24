@@ -21,7 +21,7 @@ function Footer() {
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
-            <li className="social-icons">
+            {/* <li className="social-icons">
               <a
                 href="https://github.com/antonyrubes"
                 target="_blank"
@@ -29,7 +29,7 @@ function Footer() {
               >
                 <AiFillGithub />
               </a>
-            </li>
+            </li> */}
             <li className="social-icons">
               <a
                 href="https://twitter.com/antonyrubes"
